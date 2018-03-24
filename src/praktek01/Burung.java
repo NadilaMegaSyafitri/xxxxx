@@ -22,5 +22,5 @@ public class Burung {
         System.out.println("habitat_asal : "+habitat_asal);
         System.out.println("warna_mata : "+warna_mata);
         System.out.println("panjang_cakar : "+panjang_cakar);
-            }
+    }
 }
