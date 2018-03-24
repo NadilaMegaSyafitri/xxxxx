@@ -7,15 +7,8 @@ package praktek01;
 
 /**
  *
- * @author pmega
+ * @author mega
  */
-public class Praktek01 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Burung {
     
 }
